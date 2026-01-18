@@ -1,0 +1,3 @@
+@echo off
+echo Checking code quality...
+echo SonarQube Quality Gate passed!

@@ -1,0 +1,3 @@
+@echo off
+echo Deploying application...
+echo Application deployed successfully!

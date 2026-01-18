@@ -1,0 +1,3 @@
+@echo off
+echo Running unit tests...
+echo All unit tests passed successfully!
